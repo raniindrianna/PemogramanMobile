@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KlasemenLigaSatu</string>
+    <string name="klasemen_pertama_liga_satu">KLASEMEN PERTAMA LIGA SATU</string>
+    <string name="ets_mobile">ETS MOBILE</string>
+    <string name="nama_klub">NAMA KLUB</string>
+    <string name="halaman_utama">HALAMAN UTAMA</string>
+    <string name="page_detail">HALAMAN DETAIL</string>
+    <string name="about">HALAMAN TENTANG</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyTaskListNotif</string>
+    <string name="new_task">NEW TASK</string>
+    <string name="detail_task">DETAIL TASK</string>
+    <string name="title">TITLE</string>
+    <string name="course">COURSE</string>
+    <string name="time">TIME</string>
+    <string name="date">deadline</string>
+    <string name="desc">DESCRIPTION</string>
+    <string name="add_task">ADD NEW TASK</string>
+
+
+</resources>
